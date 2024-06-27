@@ -361,6 +361,7 @@
 "Assets/Script/BallController.cs"
 "Assets/Script/ColorBall.cs"
 "Assets/Script/Hole.cs"
+"Assets/Script/Title.cs"
 -langversion:9.0
 /deterministic
 /optimize+
