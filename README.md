@@ -1,10 +1,10 @@
 # BillardGame
 
-一般的なビリヤードゲームです．．
+一般的なビリヤードゲームです．
 
 # DEMO
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+https://github.com/hori-u/BilliardGame/assets/143776523/d7262443-d14d-45c0-ae69-f0a8fec1507a
 
 # Features
 
@@ -12,13 +12,9 @@
 
 # Requirement
 
-"hoge"を動かすのに必要なライブラリなどを列挙する
-
-* Unity 2022.
+* Unity 2022.3.32f1
 
 # Installation
-
-Requirementで列挙したライブラリなどのインストール方法を説明する
 
 * Unity hub download : 
 https://unity.com/ja/download
@@ -27,13 +23,9 @@ https://unity.com/ja/download
 
 # Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
 git clone https://github.com/hori-u/BilliardGame.git
 
 # Note
-
-注意点などがあれば書く
 
 # Author
 
@@ -44,13 +36,6 @@ git clone https://github.com/hori-u/BilliardGame.git
 * E-mail : pnjl7b2l@s.okayama-u.ac.jp
 
 # License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
 
 # Reference
 
